@@ -2,7 +2,7 @@
 
 <!--
 **rickchallen/rickchallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+🚀 Projetos em Destaques 
+
+     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickhallen&repo=toolsAgency&theme=merko)](https://github.com/rickchallen/toolsAgency)
 ## Minhas Estatisticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickchallen&show_icons=true&theme=merko)
 
