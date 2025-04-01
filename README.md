@@ -1,22 +1,19 @@
-## Hi there 👋
+## Olá Meu Nome è Williams Ricardo  👋
 
 <!--
 **rickchallen/rickchallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 No Momento eu estou aprendendo Python e GO ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 No Momento eu estou aprendendo Python , GO , segurança da informação e Dados...
+- ⚡ Gosto de Estudar Tecnologia  e tocar instrumentos Musicais
 
 🚀 Projetos em Destaques 
 
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickhallen&repo=toolsAgency&theme=merko)](https://github.com/rickchallen/toolsAgency)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickchallen&repo=toolsAgency&theme=merko)](https://github.com/rickchallen/toolsAgency)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickchallen&theme=merko&repo=Desafio_phishing)](https://github.com/rickchallen/Desafio_phishing)
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickchallen&theme=merko&repo=Sistema_BancarioV1)](https://github.com/rickchallen/Sistema_BancarioV1)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickchallen&theme=merko&repo=Previs-o-do-Tempo)](https://github.com/rickchallen/Previs-o-do-Tempo)
  
 ## Minhas Estatisticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickchallen&show_icons=true&theme=merko)
