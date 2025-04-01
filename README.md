@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ## Minhas Estatisticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickchallen&show_icons=true&theme=merko)
 
-#Principais Linguagens Utilizadas
+- Principais Linguagens Utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickchallen)](https://github.com/anuraghazra/github-readme-stats)
