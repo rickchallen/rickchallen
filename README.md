@@ -3,7 +3,7 @@
 <!--
 **rickchallen/rickchallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
--🎓 Sou Formado Em Sistemas de Informação e Técnico rem Redes de Computadores
+- 🎓 Sou Formado Em Sistemas de Informação e Técnico rem Redes de Computadores
 - 🌱 No Momento eu estou aprimorando Meus Conhecimentos em  Python , GO , segurança da informação e Dados...
 - ⚡ Gosto de Estudar Tecnologia  e tocar instrumentos Musicais
 
